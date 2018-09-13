@@ -21,21 +21,3 @@ We are committed to maintain
 * Integrity
 * Quality
 * Transparency in all sphere of our business.
-
-## Offices
-
-*Registered Office*
-
-- 6A Dr. Rajendra Prasad Sarani Room # 6/12 5th Floor, Kolkata – 700001
-- Tel: +91-33-22304730/ 22310525/ 30224730
-- Fax: +91-33-30267730
-- Mobile: +91-9831053223/ 9433015322
-
-*Branch Office 1*
-- 148A, Padmabati A, Lane No. 5, Nirman Nagar, Jaipur – 302019
-
-*Branch Office 2*
-- Koat Bazar Sitamarhi, Bihar – 843302
-
-## General Enquiries
-- contact@gopaltrading.com
