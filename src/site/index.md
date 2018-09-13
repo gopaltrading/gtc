@@ -1,34 +1,75 @@
 ---
-title: EleventyOne
-subtitle: A project scaffold for getting building with Eleventy quickly.
+title: Gopal Trading Company
+subtitle: Partner with us for Iron & Steel, Scaffolding Materials and Other Products!
 layout: layouts/base.njk
 ---
 
+## Iron & Steel
 
-## This site is a starting point
+* Round
+* Angle
+* Channel
+* Joist
+* Plate
+* Flat
+* Tees
+* Square
+* B.P.Sheet
+* TMT
+* G.P.Sheet
+* G.C.Sheet
+* C.R.Sheet
+* MS Pipe & Fittings
+* G.I.Pipe & Fittings
+* Chequared Plate
+* Sheet Piling
+* S S Pipe & Fittings
 
-From this point we should already have:
+## Scaffolding Materials
 
-- [Eleventy](https://11ty.io) with a skeleton site
-- A date format filter for Nunjucks
-- Sass pipeline
-- JS pipeline
-- JS [search index](/search.json) generator
-- Serverless (FaaS) development pipeline with Netlify Functions for Lambda
+* Right Angle Coupler
+* Swivel Coupler
+* Adjustable U Jack
+* Adjustable Base Jack
+* Join Pin
+* Single Clip
+* Bridge Clip
+* C-Clamp
+* Adjustable Props
+* Double Clip
+* Shuttering Plate
+* Cuplock
+* Ledgers
 
+## Other Products
 
-## Post pages
+* PVC Pipe & Fittings
+* G.I.Chainlink Fencing
+* Dowell Bar Sleeve
+* Vibrating Screen
+* Weldmesh
+* Hassian Cloth
+* Wire Rope
+* Bolt, Nuts & Washers
+* Hardware items
+* Anchor bolts
+* C.I. Balls
+* Grease Nipple
+* Wire Rope ceiling
+* D-Shuckle
+* Tarpaulin
+* HB Wire
+* Dowell Bar
+* Earth Electrode
+* G.I.Earthing Strips
+* Annealed Wire
+* PVC Tapes
+* PVC Conduit Pipe
 
-The pages found in in the posts
-
-<ul class="listing">
-{%- for page in collections.post -%}
-  <li>
-    <a href="{{ page.url }}">{{ page.data.title }}</a> -
-    <time datetime="{{ page.date }}">{{ page.date | dateDisplay }}</time>
-  </li>
-{%- endfor -%}
-</ul>
-
-
-
+* Bentonite Powder
+* Hydrated Lime
+* Valves
+* Cable Tray
+* Paint
+* Bus Bar
+* PVC Cable Gland Shrouds
