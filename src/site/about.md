@@ -1,17 +1,23 @@
 ---
-title: Get Yours
+title: About
 layout: layouts/base.njk
 ---
 
-To get your own instance of this [11ty](https://11ty.io) starter project cloned and deploying to [Netlify](https://www.netlify.com) very quickly, just click the button below and follow the instructions.
+## Our Foundations
+Gopal Trading Company was established in 1979 in Kolkata, India by entrepreneur Mr. Gopal Luharuka. Since the inception, the company has prided itself as one of the leading vendor of Construction and Engineering materials. The company now operates in all key cities in India and plans to expand into the overseas markets in the near future.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/philhawksworth/twavatar)
+## Our Quality
+Our materials are fasted to relevant standard and whenever possible we give original manufacturers test certificate with heat numbers as well as govt. Approved laboratories test certificates can also be provided.
 
+Moreover, we are regular suppliers of these material to various govt. Undertakings & reputed companies in private & public sector.
 
-## Wait, what happens when I click that button?
+## Our Philosophy
+We believe that quality is the lifeline of every business and we are committed to satisfy our customers by manufacturing and supplying quality. We have proactive approach to uphold integrity in conducting our business and provide conducive environment for individuals to perform and excel in their areas of operation. Our ultimate motto is customer satisfaction.
 
-Good question. Here's what it will do...
+## Our Values 
 
-1. Netlify will clone the git repository of this project into your Github account. You will be asked for the required permissions to add the repo for you.
-2. They'll create a new site for you in Netlify, and configure it to use your shiny new repo. Right away you'll be able to deploy changes simply by pushing changes to your repo.
-3. That's it really.
+We are committed to maintain
+
+* Integrity
+* Quality
+* Transparency in all sphere of our business.
