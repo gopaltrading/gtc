@@ -65,7 +65,6 @@ layout: layouts/base.njk
 * Annealed Wire
 * PVC Tapes
 * PVC Conduit Pipe
-
 * Bentonite Powder
 * Hydrated Lime
 * Valves
